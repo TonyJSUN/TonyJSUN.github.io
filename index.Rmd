@@ -1,0 +1,24 @@
+---
+title: "Tony Sun"
+image: "Tony.jpeg"
+links:
+  - label: LinkedIn
+    url: "www.linkedin.com/in/jun-sun-469b49380"
+  - label: GitHub
+    url: "https://github.com/TonyJSUN"
+  - label: Email
+    url: "mailto:jsun141@jh.edu"
+output:
+  postcards::jolla
+---
+ 
+## Bio
+
+University of Washington : Bachelor of Science
+Major: Molecular, Cellular and Developmental Biology 
+
+## Research
+
+Dissecting Rapamycin-sensitivity across diverse genetic backgrounds of Drosophila melanogaster
+Seattle, USA
+University of Washington Dec 2023 – June 2025
